@@ -16,7 +16,4 @@ This repository contains three lab assignments demonstrating navigation in Flutt
 * Adds a "Back to Home" button on the product page.
 * Demonstrates nested layouts using `Column` and returning to the root route.
 
-## How to Run
-1. Ensure Flutter is installed.
-2. Run `flutter pub get` to install dependencies.
-3. Use `flutter run -d chrome` to view in the browser.
+
